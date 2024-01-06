@@ -1,3 +1,5 @@
+package core;
+
 public class Account {
     String AccountNumber;
     String AccountOwner;

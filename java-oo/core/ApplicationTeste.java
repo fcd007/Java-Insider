@@ -1,4 +1,6 @@
-public class Application {
+package core;
+
+public class ApplicationTeste {
     public static void main(String[] args) {
 
        Account conta1 = new Account();
